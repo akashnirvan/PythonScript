@@ -69,7 +69,15 @@ pipwin install pyaudio
 ```
 
 ---
-
+## Some Tweak
+```env
+WAKER=hello
+API_KEY = AIzaSyAEey2pCZn7pnWMsI1lEZ0UivR39l_9dhs
+MAX_MESSAGES =10
+```
+#you can edit WAKER so that it start to respond by your prefer word
+#add a Api keys of a gemini 
+#Max message is for how many message it shows in a chat then delete previous one
 ## ▶️ Running the Assistant
 
 ```bash
